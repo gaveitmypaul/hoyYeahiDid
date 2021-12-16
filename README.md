@@ -215,3 +215,5 @@ $resul3 = mysql_query("SELECT format.formatType FROM format JOIN books ON books.
 
 </body>
 </html>
+
+this might work here mmmkay
